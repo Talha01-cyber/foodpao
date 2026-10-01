@@ -132,7 +132,7 @@ body {
   background: rgba(255, 255, 255, 0.97);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--primary);
   transition: box-shadow 0.25s ease, background 0.25s ease;
 }
 
