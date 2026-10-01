@@ -234,7 +234,7 @@ body {
   padding: 80px 5% 70px;
   text-align: center;
   background: #FFFFFF;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid rgba(232, 0, 29, 0.12);
 }
 
 /* Subtle top stripe */
@@ -394,8 +394,9 @@ body {
    ============================================================ */
 .features-section {
   padding: 96px 0;
-  background: var(--bg-muted);
-  border-bottom: 1px solid var(--border);
+  /* Warm off-white — very faint cream tint */
+  background: #FAF9F7;
+  border-bottom: 2px solid #EDE8E1;
 }
 
 .features-grid {
@@ -451,8 +452,9 @@ body {
    ============================================================ */
 .how-it-works-section {
   padding: 96px 0;
-  background: var(--white);
-  border-bottom: 1px solid var(--border);
+  /* Cool light gray — slight blue-gray undertone */
+  background: #F6F8FC;
+  border-bottom: 2px solid #D8E2F0;
 }
 
 .steps-grid {
@@ -523,8 +525,9 @@ body {
    ============================================================ */
 .partner-section {
   padding: 96px 0;
-  background: var(--bg-muted);
-  border-bottom: 1px solid var(--border);
+  /* Faint warm peach — hints at food & warmth */
+  background: #FFF6F4;
+  border-bottom: 2px solid #FECACA;
 }
 
 .partner-wrapper {
@@ -690,13 +693,14 @@ body {
    ============================================================ */
 .app-section {
   padding: 96px 0;
-  background: var(--white);
-  border-bottom: 1px solid var(--border);
+  /* Very faint blue-white — calm & techy */
+  background: #F6F9FF;
+  border-bottom: 2px solid #C7D9F8;
 }
 
 .app-card-wrapper {
-  background: var(--bg-muted);
-  border: 1px solid var(--border);
+  background: #FFFFFF;
+  border: 1px solid #C7D9F8;
   border-radius: var(--radius-xl);
   padding: 64px 32px;
   text-align: center;
