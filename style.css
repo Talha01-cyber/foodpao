@@ -234,7 +234,7 @@ body {
   padding: 80px 5% 70px;
   text-align: center;
   background: #FFFFFF;
-  border-bottom: 2px solid rgba(232, 0, 29, 0.12);
+  border-bottom: 2px solid rgba(232, 0, 29, 0.25);
 }
 
 /* Subtle top stripe */
@@ -396,7 +396,7 @@ body {
   padding: 96px 0;
   /* Warm off-white — very faint cream tint */
   background: #FAF9F7;
-  border-bottom: 2px solid #EDE8E1;
+  border-bottom: 2px solid #C9BDB2;
 }
 
 .features-grid {
@@ -454,7 +454,7 @@ body {
   padding: 96px 0;
   /* Cool light gray — slight blue-gray undertone */
   background: #F6F8FC;
-  border-bottom: 2px solid #D8E2F0;
+  border-bottom: 2px solid #A8BDD6;
 }
 
 .steps-grid {
@@ -527,7 +527,7 @@ body {
   padding: 96px 0;
   /* Faint warm peach — hints at food & warmth */
   background: #FFF6F4;
-  border-bottom: 2px solid #FECACA;
+  border-bottom: 2px solid #F5A0A0;
 }
 
 .partner-wrapper {
@@ -695,12 +695,12 @@ body {
   padding: 96px 0;
   /* Very faint blue-white — calm & techy */
   background: #F6F9FF;
-  border-bottom: 2px solid #C7D9F8;
+  border-bottom: 2px solid #90B3E8;
 }
 
 .app-card-wrapper {
   background: #FFFFFF;
-  border: 1px solid #C7D9F8;
+  border: 1px solid #90B3E8;
   border-radius: var(--radius-xl);
   padding: 64px 32px;
   text-align: center;
